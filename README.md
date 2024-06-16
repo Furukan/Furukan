@@ -12,7 +12,28 @@ Hello, my name is Enis Furkan Yıldız and I'm from Turkey. I've had a interest 
 
 <h1>Projects:</h1>
 <h2>Neural Network Digit Recognition:</h2>
-<p></p>
+<p>
+  
+  This is one of my biggest projects. I will explain how it does work step by step (some boring nerd stuff 🙄)
+  <br>
+  <h3>Result Calculation: </h3>
+ <ol>
+  <li>
+    The program creates a Neural Network of (784, 16, 16, 10). If you're wondering why 784? It represents all the individual pixels of a 28x28 frame.
+    <br>
+  </li>
+
+  <li>
+    All neurons are connected to all neurons from the previous and next layers, and all connections have a weight value.
+    <br>
+  </li>
+
+  <li>
+    When calculating, the program puts all 784 grayscale pixel values into the first neurons. It then multiplies all these values with the connected weights and adds them to the neurons of the next layers.
+  </li>
+</ol>
+  
+</p>
 
 <h2>Maze Generator and Path Finder:</h2>
 <p>This project is about <b>Recursive Backtrack</b> and <b>A* Pathfinding</b> which are Maze Generation and Path Finding Algorithms.</p>
