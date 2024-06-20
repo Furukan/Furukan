@@ -84,3 +84,23 @@
     </p>
   </li>
 </ul>
+
+<h2>Images:</h2>
+<details>
+  <summary><i>Neural Network Digit Recognition</i></summary>
+</details>
+
+<details>
+  <summary><i>Global Illumination</i></summary>
+</details>
+
+<details>
+  <summary><i>Tic-Tac-Toe AI</i></summary>
+  https://github.com/Furukan/Furukan/assets/93734219/67a5811b-d2bf-4a3e-8507-d31d3f54d723
+</details>
+
+<details>
+  <summary><i>Maze Generator</i></summary>
+  https://github.com/Furukan/Furukan/assets/93734219/5d180d72-cf24-43cf-8239-e61549b82ef6
+  https://github.com/Furukan/Furukan/assets/93734219/01928613-64fc-4dd8-a80f-232bc6cca964
+</details>
