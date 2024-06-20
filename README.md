@@ -2,7 +2,16 @@
 
 <h2>About Me:</h2>
 <p>
-  My name is Enis Furkan Yıldız. I am from Turkey and spent 13 years living abroad. For the past 2 years, I have been continuing my education at Ankara Cumhuriyet High School, one of the top schools in Turkey. I discovered my passion for programming in 2020 and have since gained valuable experience. In my free time, I enjoy listening to music and diving deeper into programming challenges.
+  Hello, I’m Enis Furkan Yıldız, a Turkish national who has spent most of my life living abroad. However, for the past two years, I have been continuing my education at Ankara Cumhuriyet High School, where I balance my academic pursuits with a deep passion for programming.
+</p>
+<p>
+  My journey into programming began in 2020, and since then, I’ve immersed myself in languages like Roblox Lua and Python. These interests have sparked my curiosity in creating immersive experiences and solving complex challenges within the realm of game development.
+</p>
+<p>
+  Beyond programming, I enjoy exploring diverse music genres and diving into algorithmic puzzles. These hobbies not only provide relaxation but also sharpen my problem-solving skills and creativity.
+</p>
+<p>
+  Looking forward, I aim to further explore game development, particularly focusing on creating compelling gameplay mechanics and engaging user experiences. I’m eager to delve deeper into technologies that can enhance gaming environments and bring new ideas to life.
 </p>
 
 <h2>Experiences:</h2>
@@ -52,12 +61,18 @@
     <p>
       This project was a significant milestone in my programming journey. Using Luau on Roblox, I developed a neural network for digit recognition. The project involved implementing various layers of the neural network, training it with digit datasets, and optimizing its performance. Through this project, I deepened my understanding of machine learning concepts and honed my programming skills in Lua.
     </p>
+    <details>
+      <summary><i>Images: </i></summary>
+    </details>
   </li>
   <li>
     <h3>Global Illumination Simulation (Luau)</h3>
     <p>
       One of my favorite projects, this simulation used ray tracing techniques to simulate natural lighting effects (global illumination) in Luau on Roblox. The project aimed to replicate how light interacts and bounces off surfaces in a realistic manner, enhancing visual fidelity and creating immersive environments. Through this project, I gained practical experience in implementing advanced rendering techniques and honed my skills in Lua programming within the Roblox platform.
     </p>
+    <details>
+      <summary><i>Images: </i></summary>
+    </details>
   </li>
   <li>
     <h3>Tic-Tac-Toe AI (Python)</h3>
@@ -66,6 +81,10 @@
       <br><br>
       <i>GitHub link: <a href="https://github.com/Furukan/NeverLosingTic-Tac-Toe">NeverLosing Tic-Tac-Toe</a></i>
     </p>
+    <details>
+      <summary><i>Images: </i></summary>
+      <a href="https://github.com/Furukan/Furukan/assets/93734219/67a5811b-d2bf-4a3e-8507-d31d3f54d723">Image 1</a>
+    </details>
   </li>
   <li>
     <h3>Random Maze Generator And Solver (Luau)</h3>
@@ -74,6 +93,12 @@
       <br><br>
       <i>Open-source module: <a href="https://devforum.roblox.com/t/mazemodule-create-mazes-and-find-your-way/3014919">Maze Module (DevForum)</a></i>
     </p>
+    <details>
+      <summary><i>Images: </i></summary>
+      <a href="https://github.com/Furukan/Furukan/assets/93734219/5d180d72-cf24-43cf-8239-e61549b82ef6">Image 1</a>
+      <br>
+      <a href="https://github.com/Furukan/Furukan/assets/93734219/01928613-64fc-4dd8-a80f-232bc6cca964">Image 2</a>
+    </details>
   </li>
   <li>
     <h3>VFX Projects (Luau)</h3>
@@ -85,22 +110,13 @@
   </li>
 </ul>
 
-<h2>Images:</h2>
-<details>
-  <summary><i>Neural Network Digit Recognition</i></summary>
-</details>
-
-<details>
-  <summary><i>Global Illumination</i></summary>
-</details>
-
-<details>
-  <summary><i>Tic-Tac-Toe AI</i></summary>
-  https://github.com/Furukan/Furukan/assets/93734219/67a5811b-d2bf-4a3e-8507-d31d3f54d723
-</details>
-
-<details>
-  <summary><i>Maze Generator</i></summary>
-  https://github.com/Furukan/Furukan/assets/93734219/5d180d72-cf24-43cf-8239-e61549b82ef6
-  https://github.com/Furukan/Furukan/assets/93734219/01928613-64fc-4dd8-a80f-232bc6cca964
-</details>
+<h2>Conclusion:</h2>
+<p>
+  My journey in programming and game development has been driven by a passion for creating immersive experiences and solving complex challenges. From mastering Roblox Lua to exploring Python and venturing into web development, each experience has shaped my skills and broadened my understanding of technology.
+</p>
+<p>
+  As I continue to pursue my education and professional growth, I am excited about the opportunities to contribute to innovative projects and collaborate with like-minded individuals. I am committed to continuous learning and strive to leverage my skills in programming, algorithm design, and game development to make meaningful contributions in the tech industry.
+</p>
+<p>
+  Thank you for taking the time to review my CV. I look forward to discussing how my skills and experiences can contribute to your team or project. :heart:
+</p>
