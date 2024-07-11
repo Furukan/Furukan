@@ -57,6 +57,14 @@
 <h2>Past Projects:</h2>
 <ul>
   <li>
+    <h3>Katana Mastery Simulator (Roblox)</h3>
+    <p>
+      I am thrilled to share my first published game, <strong>Katana Mastery Simulator</strong>. Developed using the Knit framework, this project has been an incredible journey, providing me with substantial experience in programming and game development.
+      <br><br>
+      <i>Check out the game: <a href="https://www.roblox.com/games/7261416217/Katana-Mastery-Simulator" target="_blank">Katana Mastery Simulator</a></i>
+    </p>
+  </li>
+  <li>
     <h3>Neural Network Digit Recognition (Luau)</h3>
     <p>
       This project was a significant milestone in my programming journey. Using Luau on Roblox, I developed a neural network for digit recognition. The project involved implementing various layers of the neural network, training it with digit datasets, and optimizing its performance. Through this project, I deepened my understanding of machine learning concepts and honed my programming skills in Lua.
@@ -99,14 +107,6 @@
       <br>
       <a href="https://github.com/Furukan/Furukan/assets/93734219/01928613-64fc-4dd8-a80f-232bc6cca964">Image 2</a>
     </details>
-  </li>
-  <li>
-    <h3>VFX Projects (Luau)</h3>
-    <p>
-      I have completed various VFX projects in Luau on Roblox, including Stand Projects, Combat Projects, and Skill projects. These projects involved creating visually appealing effects to enhance the gaming experience.
-      <br><br>
-      <i>I can't put all example videos here, please message me to get example videos.</i>
-    </p>
   </li>
 </ul>
 
