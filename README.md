@@ -74,15 +74,6 @@
     </details>
   </li>
   <li>
-    <h3>Global Illumination Simulation (Luau)</h3>
-    <p>
-      One of my favorite projects, this simulation used ray tracing techniques to simulate natural lighting effects (global illumination) in Luau on Roblox. The project aimed to replicate how light interacts and bounces off surfaces in a realistic manner, enhancing visual fidelity and creating immersive environments. Through this project, I gained practical experience in implementing advanced rendering techniques and honed my skills in Lua programming within the Roblox platform.
-    </p>
-    <details>
-      <summary><i>Images: </i></summary>
-    </details>
-  </li>
-  <li>
     <h3>Tic-Tac-Toe AI (Python)</h3>
     <p>
       This project aimed to create an unbeatable Tic-Tac-Toe AI using advanced algorithms in Python. Implemented with the Minimax algorithm combined with alpha-beta pruning, the AI evaluates all possible moves recursively, maximizing its chances of winning or forcing a draw against any opponent strategy. This project strengthened my understanding of artificial intelligence concepts and enhanced my skills in algorithmic thinking and problem-solving.
