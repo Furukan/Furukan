@@ -35,12 +35,6 @@
     </p>
   </li>
   <li>
-    <h3>Web Development: Beginner (3 Months)</h3>
-    <p>
-      In 2022, I began exploring web development to broaden my programming horizons. During this period, I focused on learning HTML, CSS, and JavaScript fundamentals. I completed basic projects involving responsive design and interactive elements. While my focus shifted to other areas afterward, this experience provided me with introductory insights into front-end development practices and the importance of user-centric design.
-    </p>
-  </li>
-  <li>
     <h3>Additional Skills:</h3>
     <p>
       I consider myself advanced in algorithm and physics-based projects, with strong problem-solving skills. I enjoy tackling challenges that require creative solutions and technical expertise.
@@ -69,9 +63,6 @@
     <p>
       This project was a significant milestone in my programming journey. Using Luau on Roblox, I developed a neural network for digit recognition. The project involved implementing various layers of the neural network, training it with digit datasets, and optimizing its performance. Through this project, I deepened my understanding of machine learning concepts and honed my programming skills in Lua.
     </p>
-    <details>
-      <summary><i>Images: </i></summary>
-    </details>
   </li>
   <li>
     <h3>Tic-Tac-Toe AI (Python)</h3>
@@ -98,6 +89,14 @@
       <br>
       <a href="https://github.com/Furukan/Furukan/assets/93734219/01928613-64fc-4dd8-a80f-232bc6cca964">Image 2</a>
     </details>
+  </li>
+    <li>
+    <h3>Obby Solver AI (Luau)</h3>
+      <p>
+  This project, created in Luau on Roblox, involves developing an AI that brute forces its way through obstacle courses (obbies). The AI controls multiple NPCs that repeatedly attempt the course, learning from failures and gradually optimizing their path until they succeed.
+    <br><br>
+    <i>Open-source module: <a href="https://x.com/FurukanDev/status/1812225350723662236">Twitter Post</a></i>
+    </p>
   </li>
 </ul>
 
