@@ -95,7 +95,7 @@
       <p>
   This project, created in Luau on Roblox, involves developing an AI that brute forces its way through obstacle courses (obbies). The AI controls multiple NPCs that repeatedly attempt the course, learning from failures and gradually optimizing their path until they succeed.
     <br><br>
-    <i>Open-source module: <a href="https://x.com/FurukanDev/status/1812225350723662236">Twitter Post</a></i>
+    <i>Video: <a href="https://x.com/FurukanDev/status/1812225350723662236">Twitter Post</a></i>
     </p>
   </li>
 </ul>
